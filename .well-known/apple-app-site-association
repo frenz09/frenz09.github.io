@@ -2,7 +2,7 @@
     "applinks": {
         "details": [
             {
-                "appID": [ "N55M48F7Q2.com.SKTelecom.TMap" ],
+                "appIDs": [ "N55M48F7Q2.com.SKTelecom.TMap" ],
                 "components": [
                     {
                         "/" : "*"
